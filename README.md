@@ -5,4 +5,5 @@
 - superheroes
 - supervillains
 ### Languages and technologies:
-Node.js, Unix Command Line
+- Node.js 
+- Unix Command Line
